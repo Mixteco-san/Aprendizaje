@@ -8,7 +8,7 @@ body
 
 .container
 {
-    color: blue;
+    color: maroon;
     font-size: 30px;
     border: 1px solid black;
     width: 65%;
@@ -17,5 +17,12 @@ body
 
 #Cabecera
 {
-    color: black;
+    color: white;
+    background-color: green;
+    margin: 0;
+}
+
+#Cabecera h1
+{
+    margin: 0;
 }
