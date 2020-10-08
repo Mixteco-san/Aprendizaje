@@ -18,7 +18,7 @@ body
 #Cabecera
 {
     color: white;
-    background-color: green;
+    background-color: #294297;
     margin: 0;
 }
 
@@ -27,7 +27,7 @@ body
     margin: 0;
 }
 
-.image
+.images
 {
     width: 40px;
 }
