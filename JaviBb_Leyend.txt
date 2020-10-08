@@ -2,4 +2,9 @@ Esta es una historia de JaviBb
 
 Javier Silva tiene 25 años y nacio en Nochixburgo Oaxaca México
 
+Acabo de agregarme soy Anita y soy chola, mi barrio me respalda.
+Aqui meto cuchara Yo Javi el chido
+
+Agregamos un cambio para hacer merge en github, enviaremos por consola este cambio a origin header
+
 Hoy hablaremos el dia de mañana de su vida laboral C:
