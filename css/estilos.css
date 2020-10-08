@@ -18,11 +18,19 @@ body
 #Cabecera
 {
     color: white;
-    background-color: green;
+    background-color: #294297;
     margin: 0;
 }
 
 #Cabecera h1
 {
     margin: 0;
+<<<<<<< HEAD
+=======
+}
+
+.images
+{
+    width: 40px;
+>>>>>>> header
 }
