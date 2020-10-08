@@ -29,8 +29,9 @@ body
 
 .footerP
 {
-    background-color: gray;
+    background-color: black;
     text-align: center;
+    color: white;
 }
 
 .footerP p
