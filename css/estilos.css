@@ -31,3 +31,15 @@ body
 {
     width: 45px;
 }
+
+.footerP
+{
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+
+.footerP p
+{
+    margin-bottom: 0;
+}
