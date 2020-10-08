@@ -26,14 +26,3 @@ body
 {
     margin: 0;
 }
-
-.footerP
-{
-    background-color: gray;
-    text-align: center;
-}
-
-.footerP p
-{
-    margin-bottom: 0;
-}
