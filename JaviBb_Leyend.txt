@@ -7,6 +7,8 @@ Aqui meto cuchara Yo Javi el chido
 
 Modificacion para git rebase
 
+Modificacion para git rebase 2
+
 Agregamos un cambio para hacer merge en github, enviaremos por consola este cambio a origin header
 
 Hoy hablaremos el dia de mañana de su vida laboral C:
