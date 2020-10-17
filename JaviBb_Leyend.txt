@@ -5,9 +5,7 @@ Javier Silva tiene 25 años y nacio en Nochixburgo Oaxaca México
 Acabo de agregarme soy Anita y soy chola, mi barrio me respalda.
 Aqui meto cuchara Yo Javi el chido
 
-Modificacion para git rebase
-
-Modificacion para git rebase 2
+Master 1
 
 Agregamos un cambio para hacer merge en github, enviaremos por consola este cambio a origin header
 
