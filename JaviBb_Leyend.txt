@@ -12,10 +12,7 @@ Master 2
 Experimento 1
 
 Experimento 2
-<<<<<<< HEAD
 
-=======
->>>>>>> d4724f1... Comentario para experimento 2
 Agregamos un cambio para hacer merge en github, enviaremos por consola este cambio a origin header
 
 Hoy hablaremos el dia de mañana de su vida laboral C:
