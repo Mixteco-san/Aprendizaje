@@ -14,4 +14,7 @@ Sin más que decir les dejo mis redes sociales, nomás para hacer amigos.
 [Twitter](http://https://twitter.com/MixtecoSan "Twitter")
 [Instagram](http://https://www.instagram.com/mixteco_san/ "Instagram")
 
-Saludos a todos los que llegaron hasta aquí whit 💙
+Saludos a todos los que llegaron hasta aquí con 💙
+
+Cambios de practica 1
+Cambios de practica 2
